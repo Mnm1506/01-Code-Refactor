@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* body */
 body {
     background-color: #d9dcd6;
 }
@@ -32,7 +32,8 @@ header h1 a span{
     color: #d9dcd6;
 }
 
-nav {
+/* navbar */
+.navbar {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -54,8 +55,8 @@ nav a {
     text-decoration: none;
 }
 
-/*hero section*/
-.hero {
+/*.background-image section*/
+.background-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -132,7 +133,7 @@ p {
 }
 
 /*footer*/
-.footer {
+/*.footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
