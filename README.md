@@ -1,11 +1,11 @@
-# HORISEON-homework-WK01
-A web site that offers Search Engine Optimization (SEO) services.
+# Code-Refactor-HORISEON-Homework-WK01
+A website that offers Search Engine Optimization (SEO) services.
 
-Built With :
+## Built With :
 HTML
 CSS
-Website
-https://Mnm1506.github.com
+## LINK :
+https://mnm1506.github.io/01-git-Code-Refactor-HORISEON/
 
-Contribution
-Made by Moussa
+## Contributer :
+  Moussa Nait Merabet.
