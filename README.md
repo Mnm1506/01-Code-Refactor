@@ -1,6 +1,6 @@
 # Code-Refactor-HORISEON-Homework-WK01
-A website that offers Search Engine Optimization (SEO) services.
-
+ HORISEON is a fake website that offers Search Engine Optimization (SEO) services.
+ 
 ## Built With :
 HTML
 CSS
