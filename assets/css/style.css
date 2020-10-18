@@ -9,7 +9,7 @@ body {
 }
 
 
-/* header section*/
+/* header section */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -55,7 +55,7 @@ nav a {
     text-decoration: none;
 }
 
-/*.background-image section*/
+/* background-image */
 .background-image {
     height: 800px;
     width: 100%;
@@ -65,7 +65,7 @@ nav a {
     background-position: center;
 }
 
-/*main section*/
+/* main section */
 p {
     font-size: 16px;
 }
@@ -132,12 +132,12 @@ p {
     max-width: 150px;
 }
 
-/*footer*/
-/*.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
+/* footer */
+  /*.footer {
+       padding: 30px;
+       clear: both;
+       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+       text-align: center;
 }
 
 .footer h2 {
